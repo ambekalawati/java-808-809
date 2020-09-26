@@ -1,0 +1,8 @@
+word	count
+ Shail	1
+ Anjali	1
+ i am Ambe, i have enrolled in java course 	1
+Shradha	1
+Anu	1
+ Ambe	1
+Shail	1
